@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+.Encabezado{
+  background-color: #004854;
+  width: 100%;
+  height: 111px;
+}
+footer{
+  background-color: #004854;
+  width: 100%;
+  height: 111px;
+  margin-top: 0;
+  margin-left: 0;
+  bottom: 0;
+  position: absolute;
+}
+#cont{
+    background-color: #004854;
+    text-align: center;
+    padding-top: 40px;
+}
+.title{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 25px;
+    font-size: 45px;
+    font-family: 'Biryani', sans-serif;
+}
+.Columnas{
+    margin:auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.botones1{
+    display: flex;
+    justify-content: center;
+    background: transparent;
+}
+.ini{
+    margin-top: 50px;
+    width: 114px;
+    height: 44px;
+    color: white;
+    background-color: #00B9BC;
+    border-radius: 20px;
+}
+.vol{
+   margin: 5px;
+   padding-left: 710px;
+    width: 300px;
+    height: 180px;
+    color: #00B9BC;
+    text-align: center;
+}
+.image{
+  height: 80px;
+  width: 150px;
+  padding: 15px;
+  background-color: #004854;
+}
+
